@@ -1,0 +1,8 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.SocketActivity" parent="Theme.Material3.Light.NoActionBar">
+        <item name="android:colorPrimary">@color/green</item>
+    </style>
+
+    <style name="Theme.SocketActivity" parent="Base.Theme.SocketActivity" />
+</resources>
